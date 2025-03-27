@@ -1,10 +1,10 @@
 self.__uv$config = {
-    prefix: '/active/go/',
+    prefix: '/ixl/go/',
     bare:'https://bare-sigma.yourmom.eu.org/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
-    handler: '/active/uv/uv.handler.js',
-    bundle: '/active/uv/uv.bundle.js',
-    config: '/active/uv/uv.config.js',
-    sw: '/active/uv/uv.sw.js',
+    handler: '/ixl/uv/uv.handler.js',
+    bundle: '/ixl/uv/uv.bundle.js',
+    config: '/ixl/uv/uv.config.js',
+    sw: '/ixl/uv/uv.sw.js',
 };
